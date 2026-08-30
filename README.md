@@ -150,5 +150,5 @@ Great design isn't just about looking good—it's about making products feel eff
 <h3 align="center">🐍 Contribution Activity Graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rabianaveed012/rabianaveed012/output/github-user-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/rabianaveed012-prog/rabianaveed012-prog/output/github-user-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
